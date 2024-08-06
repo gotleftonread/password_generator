@@ -1,2 +1,8 @@
 # password_generator
-this is a simple downloadable password generator that automatically generates and saves passwords for you
+STEPS FOR DOWNLOAD
+
+1. download file
+2. extract file
+3. run "PasswordGenerator"
+
+THIS WILL AUTOMATICALLY CREATE A TXT FILE "password" ON YOUR SYSTEM IF YOU DONT ALREADY HAVE ONE WHEN YOU GENERATE YOUR FIRST PASSWORD.
